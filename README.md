@@ -1,4 +1,5 @@
 Hospital Management System
+
 Overview
 The Hospital Management System is a comprehensive web application designed to manage various aspects of hospital operations efficiently. Built using Java Server Pages (JSP) and Servlets, this system streamlines tasks such as patient management, doctor appointments, medical records, and administrative functions.
 
@@ -10,6 +11,7 @@ Appointment Scheduling: Simplified booking and tracking of patient appointments.
 Medical Records: Maintain and access patient medical records and treatment history.
 Billing and Invoicing: Generate and manage patient bills and invoices.
 Admin Dashboard: Comprehensive dashboard for admins to manage hospital resources and view reports.
+
 Technology Stack
 Frontend: JSP, HTML, CSS, JavaScript
 Backend: Java Servlets
